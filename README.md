@@ -1,4 +1,4 @@
-# Campus_recruitment_project
+# Campus_Recruitment_project
 Repo for the data science campus recruitment prediction.
 
 ## Resources
